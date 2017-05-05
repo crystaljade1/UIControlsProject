@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		822816331EBC204F00B5A3F8 /* TasksTableViewController".swift in Sources */ = {isa = PBXBuildFile; fileRef = 822816321EBC204F00B5A3F8 /* TasksTableViewController".swift */; };
 		82F60E231EBBC6DA008D18BB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82F60E221EBBC6DA008D18BB /* AppDelegate.swift */; };
 		82F60E251EBBC6DA008D18BB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82F60E241EBBC6DA008D18BB /* ViewController.swift */; };
 		82F60E281EBBC6DA008D18BB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 82F60E261EBBC6DA008D18BB /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		822816321EBC204F00B5A3F8 /* TasksTableViewController".swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "TasksTableViewController\".swift"; sourceTree = "<group>"; };
 		82F60E1F1EBBC6DA008D18BB /* UIControlsProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIControlsProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		82F60E221EBBC6DA008D18BB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		82F60E241EBBC6DA008D18BB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -100,6 +102,7 @@
 				82F60E221EBBC6DA008D18BB /* AppDelegate.swift */,
 				82F60E241EBBC6DA008D18BB /* ViewController.swift */,
 				82F60E261EBBC6DA008D18BB /* Main.storyboard */,
+				822816321EBC204F00B5A3F8 /* TasksTableViewController".swift */,
 				82F60E291EBBC6DA008D18BB /* Assets.xcassets */,
 				82F60E2B1EBBC6DA008D18BB /* LaunchScreen.storyboard */,
 				82F60E2E1EBBC6DA008D18BB /* Info.plist */,
@@ -261,6 +264,7 @@
 			files = (
 				82F60E251EBBC6DA008D18BB /* ViewController.swift in Sources */,
 				82F60E231EBBC6DA008D18BB /* AppDelegate.swift in Sources */,
+				822816331EBC204F00B5A3F8 /* TasksTableViewController".swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -507,6 +511,7 @@
 				82F60E491EBBC6DA008D18BB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		82F60E4A1EBBC6DA008D18BB /* Build configuration list for PBXNativeTarget "UIControlsProjectTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +520,7 @@
 				82F60E4C1EBBC6DA008D18BB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		82F60E4D1EBBC6DA008D18BB /* Build configuration list for PBXNativeTarget "UIControlsProjectUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +529,7 @@
 				82F60E4F1EBBC6DA008D18BB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
